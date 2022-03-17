@@ -26,15 +26,14 @@ Here is a brief about me :smiley:
 <br />
 
 ---
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-<!-- links to your social media accounts -->
-
-<!-- [1]: https://twitter.com/geofrey_muinde -->
-[2]: https://github.com/kibetamos
-[3]: https://www.linkedin.com/in/kibet-amos-b83681167/?trk=public-profile-join-page
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codewithtomi" height="30" width="40" /></a>
+<a href="mailto:codewithtomi@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tomitokko" height="30" width="40" /></a>
+<a href="https://twitter.com/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
+<a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a>
+<a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
