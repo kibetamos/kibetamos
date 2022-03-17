@@ -36,12 +36,10 @@ Here is a brief about me :smiley:
 [2]: https://github.com/kibetamos
 [3]: https://www.linkedin.com/in/kibet-amos-b83681167/?trk=public-profile-join-page
 
+## &#x1f4c8; GitHub Stats
 
-  <details>
-  <summary>:zap: GitHub Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="KibetAmos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kibetamos&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kibetamos&show_icons=true&locale=en" alt="kibetamos" /></p>
 
 
