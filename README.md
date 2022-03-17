@@ -28,11 +28,10 @@ Here is a brief about me :smiley:
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codewithtomi" height="30" width="40" /></a>
-<a href="mailto:codewithtomi@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://twitter.com/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a>
-<a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
+<a href="mailto:amos.rotich@strathmore.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kibetamos" height="30" width="40" /></a>
+<a href="https://twitter.com/_Ark3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a> -->
+<a href="https://dev.to/kibetamos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
