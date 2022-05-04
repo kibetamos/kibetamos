@@ -3,7 +3,7 @@
 
 Here is a brief about me :smiley:
 
-- 🔭 I’m currently working on Python(Django & FastAPI) 
+- 🔭 I’m currently working on Python(Django & FastAPI) $web3 
 - 🌱 I’m currently learning React and Java
 - 👯 I’m looking to collaborate on Open source projects and solutions
 - 💬 Ask me about python, Django, Databases $ Any Tech Relates stuff
