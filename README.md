@@ -11,8 +11,9 @@ Software Engineer and Blockchain enthusiast
 * 🤝  I'm open to collaborating on opensource projects
 * ⚡  Coffee is a must have
 
-<a href="https://www.github.com/kibetamos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kibetamos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Skills
 
