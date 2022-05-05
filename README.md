@@ -12,7 +12,8 @@ Software Engineer and Blockchain enthusiast
 
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a><a href="https://www.github.com/kibetamos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kibetamos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -52,7 +53,7 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/kibetamos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/kibetamos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kibet-amos-b83681167/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCByMC9StPwgdon-GQ5POLAQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/kibetamos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/kibetamos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kibet-amos-b83681167/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCByMC9StPwgdon-GQ5POLAQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -65,6 +66,10 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 <a href="http://www.github.com/kibetamos"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
