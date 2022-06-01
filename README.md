@@ -1,7 +1,7 @@
 Hi 👋 My name is Amos
 =====================
 
-Software Engineer & 
+Software Engineer & Blockchain enthusiast
 ------------------------------------------
 
 Software Engineer and Blockchain enthusiast
