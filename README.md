@@ -1,13 +1,13 @@
 Hi 👋 My name is Kilel
 =====================
 
-Software Engineer & Blockchain enthusiast
+Blockchain enthusiast
 ------------------------------------------
 
-Software Engineer and Blockchain enthusiast
+Blockchain enthusiast
 
 * ✉️  You can contact me at [kibetamos511@gmail.com](mailto:kibetamos511@gmail.com)
-* 🧠  I'm learning Blockchain and GraphQL
+* 🧠  I'm learning Blockchain,Data engineering
 * 🤝  I'm open to collaborating on opensource projects
 * ⚡  Coffee is a must have
 
