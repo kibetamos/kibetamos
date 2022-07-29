@@ -1,10 +1,10 @@
-Hi 👋 My name is Kilel
+Hi 👋 My name is Amos
 =====================
 
-Blockchain enthusiast
+Web3 enthusiast
 ------------------------------------------
 
-Blockchain enthusiast
+Web3 enthusiast
 
 * ✉️  You can contact me at [kibetamos511@gmail.com](mailto:kibetamos511@gmail.com)
 * 🧠  I'm learning Blockchain,Data engineering
