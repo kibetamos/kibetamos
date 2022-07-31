@@ -6,7 +6,7 @@ Web3 enthusiast
 
 Web3 enthusiast
 
-* ✉️  You can contact me at [kibetamos511@gmail.com](mailto:kibetamos511@gmail.com)
+* ✉️  You can contact me at @_Ark3
 * 🧠  I'm learning Blockchain,Data engineering
 * 🤝  I'm open to collaborating on opensource projects
 * ⚡  Coffee is a must have
