@@ -6,7 +6,7 @@ Web3 enthusiast
 
 Web3 enthusiast
 
-* ✉️  You can contact me at @_Ark3
+* ✉️  You can contact me at <a href="https://www.twitter.com/_Ark3"></a>
 * 🧠  I'm learning Blockchain,Data engineering
 * 🤝  I'm open to collaborating on opensource projects
 * ⚡  Coffee is a must have
