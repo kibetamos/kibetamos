@@ -1,15 +1,12 @@
-Hi 👋 My name is Amos
-=====================
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Web3 enthusiast
-------------------------------------------
+Here is a brief about me :smiley:
 
-Web3 enthusiast
+- 🔭 I’m currently working on Python(Django & FastAPI) 
+- 🌱 I’m currently learning React and Golang
+- 👯 I’m looking to collaborate on Open source solutions
+- ⚡ Fun fact: Beach coding, coffee is a must have.
 
-* ✉️  You can contact me at <a href="https://www.twitter.com/_Ark3"></a>
-* 🧠  I'm learning Blockchain,Data engineering
-* 🤝  I'm open to collaborating on opensource projects
-* ⚡  Coffee is a must have
 
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
