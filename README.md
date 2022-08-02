@@ -5,7 +5,7 @@ Here is a brief about me :smiley:
 - 🔭 I’m currently working on Python(Django & FastAPI) 
 - 🌱 I’m currently learning React and Golang
 - 👯 I’m looking to collaborate on Open source solutions
-- ⚡ Fun fact: Beach coding, coffee is a must have.
+- ⚡ Fun fact: coffee is a must have.
 
 
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
