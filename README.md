@@ -2,7 +2,7 @@
 
 Here is a brief about me :smiley:
 
-- 🔭 I’m currently working on Python(Django & FastAPI) & Rust
+- 🔭 I’m currently working on Python(Django & FastAPI) & ![image](https://github.com/kibetamos/kibetamos/assets/33954664/12bb85a9-9f87-4d12-b6c2-9fac4a8aad45)
 - 🌱 I’m currently learning React and Golang
 - 👯 I’m looking to collaborate on Open source solutions
 - ⚡ Fun fact: coffee is a must have.
