@@ -13,6 +13,7 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 /></a>
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -20,10 +21,12 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<!-- <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a> -->
-<!-- <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a> -->
+
 </p>
 
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on
 
 ### Socials
 
@@ -33,13 +36,15 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kibetamos"><img src="https://github-readme-stats.vercel.app/api?username=kibetamos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kibetamos's GitHub stats" /></a>
+<a href="http://www.github.com/kibetamos/kibetamos">
+  <img src="https://github-readme-stats.vercel.app/api?username=kibetamos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kibetamos's GitHub stats" /></a>
 
-<a href="http://www.github.com/kibetamos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kibetamos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kibetamos/kibetamos">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kibetamos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/kibetamos"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kibetamos/kibetamos"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" /></a>
+<a href="https://github.com/kibetamos/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 ### Support Me
