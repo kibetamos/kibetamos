@@ -36,8 +36,13 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 <b>My GitHub Stats</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kibetamos&repo=github-readme-stats)](https://github.com/kibetamos/kibetamos)
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <!-- <a href="http://www.github.com/kibetamos/"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
