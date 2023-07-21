@@ -35,6 +35,11 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 <b>My GitHub Stats</b>
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/kibetamos/kibetamos/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/kibetamos/kibetamos/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/kibetamos/kibetamos/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
 <!-- <a href="https://github.com/kibetamos/kibetamos">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
