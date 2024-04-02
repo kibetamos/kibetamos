@@ -30,7 +30,7 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 Apart from coding, I also maintain a blog - you can find my articles on
 
 
-- [What are the Front-End and the Back-End?](https://datatalks.club) - the place to talk about data!
+- [What are the Front-End and the Back-End?](https://dev.to/ark7/what-are-the-front-end-and-the-back-end-2gpb) - the place to talk about data!
 
 ### Socials
 
