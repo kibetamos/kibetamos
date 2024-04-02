@@ -9,6 +9,10 @@ Here is a brief about me :smiley:
 - 👯 I’m looking to collaborate on Open source solutions
 - ⚡ Fun fact: coffee is a must have.
 
+## Me on the Internet
+
+- Twitter: [@_Ark3](https://twitter.com/_Ark3)
+
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
