@@ -36,9 +36,9 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 Apart from coding, I also maintain a blog - you can find my articles on
 
 
-- [What are the Front-End and the Back-End?](https://dev.to/ark7/what-are-the-front-end-and-the-back-end-2gpb) - Learn about Frontend and Backend !
+- [What are the Front-End and the Back-End?](https://dev.to/ark7/what-are-the-front-end-and-the-back-end-2gpb) - Learn about Frontend and Backend.
 - 
-- [Create Your First Local HTML/CSS Project](https://dev.to/ark7/create-your-first-local-htmlcss-project-51pc) - Create Your First Local HTML/CSS Project ! 
+- [Create Your First Local HTML/CSS Project](https://dev.to/ark7/create-your-first-local-htmlcss-project-51pc) - Create Your First Local HTML/CSS Project.
 
 
 ### Socials
