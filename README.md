@@ -6,7 +6,7 @@ Here is a brief about me :smiley:
 - 🔭 I’m currently working on Python(Django & FastAPI) & Rustlings
 - 🌱 I’m currently learning React and Golang
 - 👯 I’m looking to collaborate on Open source solutions
-- ⚡ Fun fact: coffee is a must have. 
+- ⚡ Fun fact: coffee is a must have. \
 
 
 ## Me on the Internet
