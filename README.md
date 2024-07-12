@@ -35,7 +35,6 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 ### Socials
 
-
 ### Badges
 <b>My GitHub Stats</b>
 
