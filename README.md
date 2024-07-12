@@ -5,8 +5,6 @@ Here is a brief about me :smiley:
 - 👯 I’m looking to collaborate on Open source solutions
 - ⚡ Fun fact: coffee is a must have. 
 
-
-
 ## Me on the Internet
 
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
