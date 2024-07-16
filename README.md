@@ -7,8 +7,6 @@ Here is a brief about me :smiley:
 - 👯 I’m looking to collaborate on Open source solutions
 - ⚡ Fun fact: coffee is a must have. 
 
-
-
 ## Me on the Internet
 
 
