@@ -3,10 +3,11 @@
 Here is a brief about me :smiley:
 
 
-- 🔭 I’m currently working on Python(Django & FastAPI) & Rustlings
-- 🌱 I’m currently learning React and Golang
-- 👯 I’m looking to collaborate on Open source solutions
-- ⚡ Fun fact: coffee is a must have. 
+🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Rust
+🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
+👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
+⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
+
 ## Me on the Internet
 
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
