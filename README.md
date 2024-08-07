@@ -60,7 +60,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kibetamos&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
 
 ### Support Me
-<a href="https://www.buymeacoffee.com/kibetamos5y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- a href="https://www.buymeacoffee.com/kibetamos5y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 
 
 <b>Top Repositories</b>
