@@ -5,7 +5,6 @@ Here is a brief about me :smiley:
 - 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
 - ⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
 
-
 ## Me on the Internet
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
 
