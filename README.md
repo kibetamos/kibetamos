@@ -2,6 +2,7 @@
 
 Here is a brief about me :smiley:
 
+
 - 🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Rust
 - 🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
 - 
