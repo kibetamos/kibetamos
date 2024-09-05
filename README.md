@@ -5,7 +5,6 @@ Here is a brief about me :smiley:
 
 - 🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Rust
 - 🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
-- 
 - 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
 - ⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
 ## Me on the Internet
