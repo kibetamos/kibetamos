@@ -31,6 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 - [Create Your First Local HTML/CSS Project](https://dev.to/ark7/create-your-first-local-htmlcss-project-51pc) - Create Your First Local HTML/CSS Project.
 ### Socials
 ### Badges
+
 <b>My GitHub Stats</b>
 
 <!-- <a href="https://github.com/kibetamos/kibetamos">
