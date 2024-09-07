@@ -1,7 +1,6 @@
 ## Hello,  folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here is a brief about me :smiley:
-
 - 🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Rust
 - 🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
 - 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
