@@ -5,7 +5,9 @@ Here is a brief about me :smiley:
 - 🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
 - 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
 - ⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
+- 
 ## Me on the Internet
+
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
