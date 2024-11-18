@@ -8,7 +8,6 @@ Here is a brief about me :smiley:
 - ⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
 - BTW, I don't use Arch.
 
-
 ## Me on the Internet
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
@@ -27,7 +26,6 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 </p>
 ## &#x270d; Blog & Writing
 
-
 Apart from coding, I also maintain a blog - you can find my articles on
 -   [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60) - What is JSX?
 -  [Introduction: Git & GitHub](https://dev.to/ark7/introduction-git-github-54oc) - Introduction: Git & GitHub
@@ -36,14 +34,12 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ### Badges
 
 
-
 <b>My GitHub Stats</b>
 
 <!-- <a href="https://github.com/kibetamos/kibetamos">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a> -->
-
 <a href="https://github.com/kibetamos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kibetamos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="kibetamos's GitHub Stats" />
 </a>
