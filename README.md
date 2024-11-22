@@ -36,7 +36,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 
 <b>My GitHub Stats</b>
-
+<a href="https://github.com/kibetamos/kibetamos">
 
 <!-- <a href="http://www.github.com/kibetamos/"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
 </br> </br>
