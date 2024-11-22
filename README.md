@@ -48,7 +48,9 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 <!-- <a href="https://github.com/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" /></a>-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kibetamos&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak]
+
+(https://github-readme-streak-stats.herokuapp.com?user=kibetamos&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
 
 <!-- a href="https://www.buymeacoffee.com/kibetamos5y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 
