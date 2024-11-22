@@ -27,10 +27,11 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on
--   [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60) - What is JSX?
--  [Introduction: Git & GitHub](https://dev.to/ark7/introduction-git-github-54oc) - Introduction: Git & GitHub
+- [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60) - What is JSX?
+- [Introduction: Git & GitHub](https://dev.to/ark7/introduction-git-github-54oc) - Introduction: Git & GitHub
 - [Create Your First Local HTML/CSS Project](https://dev.to/ark7/create-your-first-local-htmlcss-project-51pc) - Create Your First Local HTML/CSS Project.
 ### Socials
+
 ### Badges
 
 
@@ -45,7 +46,8 @@ Apart from coding, I also maintain a blog - you can find my articles on
 </a> 
 <a href="http://www.github.com/kibetamos/"><img src="https://activity-graph.herokuapp.com/graph?username=kibetamos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
 
-<!-- <a href="https://github.com/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/kibetamos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibetamos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" /></a>-->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kibetamos&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
 
 <!-- a href="https://www.buymeacoffee.com/kibetamos5y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
