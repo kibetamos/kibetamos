@@ -2,8 +2,6 @@
 
 Here is a brief about me :smiley:
 
-
-
 - 🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Rust
 - 🌱 Eagerly learning React and Golang to broaden my expertise and stay current with industry trends
 - 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
@@ -15,7 +13,6 @@ Here is a brief about me :smiley:
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
