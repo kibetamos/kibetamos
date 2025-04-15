@@ -2,10 +2,10 @@
 
 Here is a brief about me :smiley:
 
-- 🔭 I’m actively working with Python, focusing on Django and FastAPI, and am currently exploring Java
-- 🌱 Eagerly learning React and Java to broaden my expertise and stay current with industry trends
-- 👯 Passionate about collaborating on innovative open-source projects and contributing to the tech community
-- ⚡ Fun fact: Coffee is my go-to fuel for those productive coding sessions
+- 🔭 I’m actively working with **Python**, focusing on **Django** and **FastAPI**.
+- 🌱 Currently learning **React** and **Java** to expand my stack and stay up-to-date.
+- 👯 I love collaborating on **innovative open-source projects** and giving back to the community.
+- ☕ Fun fact: **Coffee** keeps my code compiling ☕
 - BTW, I don't use Arch.
 
 
