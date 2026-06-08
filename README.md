@@ -28,7 +28,8 @@ src="https://img.shields.io/twitter/follow/_Ark3?logo=twitter&style=for-the-badg
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on
--- [DataTypes in Go](https://dev.to/ark7/understanding-data-types-in-go-5j7) - Datatypes in Go. 
+
+- [DataTypes in Go](https://dev.to/ark7/understanding-data-types-in-go-5j7) - Datatypes in Go. 
 - [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60) - What is JSX?
 - [Introduction: Git & GitHub](https://dev.to/ark7/introduction-git-github-54oc) - Introduction: Git & GitHub
 - [Create Your First Local HTML/CSS Project](https://dev.to/ark7/create-your-first-local-htmlcss-project-51pc) - Create Your First Local HTML/CSS Project.
