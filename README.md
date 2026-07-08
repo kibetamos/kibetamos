@@ -7,6 +7,7 @@ Here is a brief about me :smiley:
 - 👯 I love collaborating on **innovative open-source projects** and giving back to the community.
 - ☕ Fun fact: **Coffee** keeps my code compiling ☕
 - BTW, I don't use Arch.
+- Data is like garbage. You’d better know what you are going to do with it before you collect it. —Mark Twain
 
 
 ## Me on the Internet
