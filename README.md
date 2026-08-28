@@ -9,7 +9,6 @@ Here is a brief about me :smiley:
 - BTW, I don't use Arch.
 - Data is like garbage. You’d better know what you are going to do with it before you collect it. —Mark Twain
 
-
 ## Me on the Internet
 - Twitter : [@_Ark3](https://twitter.com/_Ark3)
 <a href="https://www.twitter.com/_Ark3" target="_blank" rel="noreferrer"><img
